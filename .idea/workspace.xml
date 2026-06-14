@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b5934ba-5c7c-4214-ba7c-b5db8b03eb41" name="Changes" comment="Adds Sorting String Manually LobChallenge">
+      <change beforePath="$PROJECT_DIR$/src/SortingStringManuallyLobChallenge.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortingStringManuallyLobChallenge.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "80211android"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/80211android/Algos2026.git",
+    "accountId": "168d5fb5-4906-4625-a869-084ffd6c369f"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="3ESsHxrsy4fqLEKmHOOYirAcbvf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Kotlin.ChallengeKt.executor": "Run",
+    "Kotlin.ChallengeTwoKt.executor": "Run",
+    "Kotlin.MainKt.executor": "Run",
+    "Kotlin.SimpeExer1Kt.executor": "Run",
+    "Kotlin.SortingStringManuallyLobChallengeKt.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/Users/droidmac/zCODEZ/TechInterviewz/JustSimplePracticez/260530_PracticeOne/PracticeOne/src/Main.kt",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Kotlin.SortingStringManuallyLobChallengeKt">
+    <configuration name="ChallengeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChallengeKt" />
+      <module name="PracticeOne" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpeExer1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimpeExer1Kt" />
+      <module name="PracticeOne" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortingStringManuallyLobChallengeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortingStringManuallyLobChallengeKt" />
+      <module name="PracticeOne" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.SortingStringManuallyLobChallengeKt" />
+        <item itemvalue="Kotlin.ChallengeKt" />
+        <item itemvalue="Kotlin.SimpeExer1Kt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.28238.7" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b5934ba-5c7c-4214-ba7c-b5db8b03eb41" name="Changes" comment="" />
+      <created>1780183226302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780183226302</updated>
+      <workItem from="1780183227249" duration="13000" />
+    </task>
+    <task id="LOCAL-00001" summary="The Very first commit">
+      <option name="closed" value="true" />
+      <created>1780942569305</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1780942569305</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adds Sorting String Manually LobChallenge">
+      <option name="closed" value="true" />
+      <created>1780942944674</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1780942944674</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="The Very first commit" />
+    <MESSAGE value="Adds Sorting String Manually LobChallenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adds Sorting String Manually LobChallenge" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/Main.kt</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/SortingStringManuallyLobChallenge.kt</url>
+          <line>27</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/SortingStringManuallyLobChallenge.kt</url>
+          <line>22</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
