@@ -2,7 +2,11 @@
 
 fun main () {
 
-    val word = "twos"
+//    val word = "twos"
+//    val word = "alphabetz"
+    val word = "ParallelX"
+
+
     println("Initial workd:  $word")
 
     sortWord(word)
@@ -10,32 +14,29 @@ fun main () {
 
 fun  sortWord(input: String) {
 
-    val holder = mutableListOf<Char>()
-    val holderArray = arrayListOf<Char>()
     val newString = input.toCharArray()
 
-    for (k in newString.indices) {
+    var indexFlag = 0
 
+    while (indexFlag < newString.size -1 ) {
+        val x1 = newString[indexFlag]
+        val x2 = newString[indexFlag+1]
 
-        for (i in 0 until newString.size -1) {
-            val x1 = newString[i]
-            val x2 = newString[i+1]
-            val x3 = "ss"
+        if (newString[indexFlag] > newString[indexFlag+1] ) {
 
-            if (newString[i] > newString[i+1]) {
-
-                println(" ${newString[i]}    ${newString[i+1]}")
-                val firstChar = newString[i]
-                newString[i] = newString[i+1]
-                newString[i+1] = firstChar
-            }
+            println(" ${newString[indexFlag]}    ${newString[indexFlag+1]}")
+            val firstChar = newString[indexFlag]
+            newString[indexFlag] = newString[indexFlag+1]
+            newString[indexFlag+1] = firstChar
+            indexFlag = 0
+        } else {
+            indexFlag++
         }
     }
 
     val sortedWord = newString.joinToString("")
 
-    println(" My Output:  $sortedWord")
-    println(" Correct sorting:  ${input.toSortedSet().joinToString(separator = "") }")
-
+    println(" My own sort Output:  $sortedWord")
+    println(" Very Correct sorting:  ${input.toCharArray().sorted().joinToString("")}")
 
 }
