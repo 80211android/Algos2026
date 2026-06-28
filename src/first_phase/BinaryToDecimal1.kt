@@ -13,7 +13,7 @@ fun main(args: Array<String>) {
 
 fun toBinaryString(number: Int): String {
 
-    val binary = StringBuilder()
+    val binaryString = StringBuilder()
     var newNumber = number
 
     var index = 0
@@ -21,9 +21,9 @@ fun toBinaryString(number: Int): String {
     while (newNumber > 0) {
 
         if ((newNumber % 2) == 0) {
-            binary.insert(index, "0")
+            binaryString.insert(index, "0")
         } else {
-            binary.insert(index, "1")
+            binaryString.insert(index, "1")
         }
 
         index++
@@ -31,5 +31,5 @@ fun toBinaryString(number: Int): String {
         newNumber /= 2
     }
 
-    return binary.reversed().toString()
+    return binaryString.reversed().toString()
 }
