@@ -1,4 +1,4 @@
-package first_phase
+package first_phase.palindromez
 
 fun main(args: Array<String>) {
 
@@ -9,12 +9,12 @@ fun main(args: Array<String>) {
 //    val word = "azbcba"
     val word = "abxycyxaba"
 
-    val result = isPalindrome(word, true)
+    val result = isPalindrome2(word, true)
     println("Is  $word a palindrome!  $result")
 
 }
 
-fun isPalindrome(word: String, flag: Boolean): Boolean {
+fun isPalindrome2(word: String, flag: Boolean): Boolean {
 
     println(" With for loop ")
 

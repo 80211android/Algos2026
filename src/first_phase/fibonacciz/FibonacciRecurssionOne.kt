@@ -1,4 +1,4 @@
-package first_phase
+package first_phase.fibonacciz
 
 fun main(args: Array<String>) {
 
