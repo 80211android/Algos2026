@@ -28,8 +28,14 @@ public class SlidingWindowG4Gone {
     }
 
     public static void main(String[] args){
-        int arr[] = {5, 2, -1, 0, 3};
-        int k = 3;
+//        int arr[] = {5, 2, -1, 0, 3};
+
+        int arr[] = {5, 7, 1, 4, 3, 6, 2, 9, 2};
+
+//        int k = 3;
+
+        int k = 5;
+
         int n = arr.length;
         System.out.println(maxSum(arr, n, k));
     }
