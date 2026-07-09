@@ -20,12 +20,10 @@ fun findOcurrancesOfAnagram(theString: String, word: String): Int {
     println(sortedWord)
     for (index in 0 until theString.length - 2) {
 
-
-        val subString = theString.substring(index, index + 3)
-        val sortedSubString = subString.toCharArray().sorted().joinToString("")
+        val sortedSubString = theString.substring(index, index + 3).toCharArray().sorted().joinToString("")
 
         if (sortedSubString == sortedWord) {
-            println(" They match:   $subString . $sortedWord .  at subIndex: $index ")
+            println(" They match:   $sortedSubString . $sortedWord .  at subIndex: $index ")
             counter++
         }
     }
