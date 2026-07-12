@@ -6,12 +6,12 @@ package first_phase.string_contains_substring;
 public class StringIsSubstringG4G {
 
 
-    // Function to find if pat is a substring of txt
-    static int findSubstring(String txt, String pat) {
-        int n = txt.length();
-        int m = pat.length();
+    // Function to find if pat is a substring of string
+    static int findSubstring(String string, String pattern) {
+        int n = string.length();
+        int m = pattern.length();
 
-        // Iterate through txt
+        // Iterate through string
         for (int i = 0; i <= n - m; i++) {
 
             // Check for substring match
@@ -19,7 +19,7 @@ public class StringIsSubstringG4G {
             for (j = 0; j < m; j++) {
 
                 // Mismatch found
-                if (txt.charAt(i + j) != pat.charAt(j)) {
+                if (string.charAt(i + j) != pattern.charAt(j)) {
                     break;
                 }
             }
