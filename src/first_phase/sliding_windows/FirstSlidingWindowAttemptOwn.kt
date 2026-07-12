@@ -6,19 +6,19 @@ fun main(args: Array<String>) {
 
 
 
-//    val theArray = listOf(1, 4, 2, 10, 23, 3, 1, 0, 20)
+    val theArray = listOf(1, 4, 2, 10, 23, 3, 1, 0, 20)
 
 //    val theArray = listOf(5, 2, -1, 0, 3)
 
-    val theArray = listOf(5, 7, 1, 4, 3, 6, 2, 9, 2)
+//    val theArray = listOf(5, 7, 1, 4, 3, 6, 2, 9, 2)
 
 
 
-//    val windowSize = 4
+    val windowSize = 4
 
 //    val windowSize = 3
 
-    val windowSize = 5
+//    val windowSize = 5
 
     val result = findLargestSum(theArray, windowSize)
     println(" The largest sum is $result ")
