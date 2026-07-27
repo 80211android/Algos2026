@@ -1,7 +1,5 @@
 package first_phase.trees
 
-import first_phase.string_contains_substring.findSubstring
-
 var startNode: NodeTree? = null
 
 fun main(args: Array<String>) {
